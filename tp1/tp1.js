@@ -1,5 +1,5 @@
 
-//https://youtu.be/cabNuYtPKws
+//https://youtu.be/cabNuYtPKws?si=dX9cyAnvTLVavkw8
 let imagen0;
 let c1, c2, c3, c4;
 let tamCuad = 40;
@@ -108,3 +108,4 @@ function keyPressed() {
     tamCirculo = 20;
   }
 }
+
